@@ -6,3 +6,4 @@ Contains a calendar, a section where you can chose your habit,and a reset button
 HTML
 CSS
 Java Script
+( CSS and Java Script were used in the same HTML file )
