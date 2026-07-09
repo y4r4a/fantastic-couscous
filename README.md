@@ -7,5 +7,10 @@ HTML
 CSS
 Java Script
 ( CSS and Java Script were used in the same HTML file )
+# Setup
+This is a static site with no build tools or dependencies to install: Clone the repo "git clone https://github.com/y4r4a/fantastic-couscous.git cd fantastic-couscous". Then open index.html in your browser 
+No installation, build step, or API keys are required. But an internet connection is needed on first load to fetch the font from fonts.cdnfonts.com.
+# Live Demo
+You can also try it live without installing anything: Habit Tracker
 # Credits
 To help me create this project I followed a youtube tutorial by @Cozy Olive Studio, where I changed the style (CSS) and some of the content.
